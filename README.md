@@ -1,6 +1,16 @@
 # DBTool
 DBTool Project for Database Technology (TU/e)
 
+## Git-Befehle (Terminal)
+
+* git clone <url>
+* git checkout -b <unser branch-name>
+//.gitignore erstellen und adden
+// Projekt kopieren
+* git add —all
+* git commit -m „…“
+* git push origin <branch-name>
+
 ## Postgres
 * 1. Install prostgres database from http://www.postgresql.org/
 * 2. After installation open pgAdmin tool.
