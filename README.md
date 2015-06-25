@@ -1,7 +1,7 @@
 # DBTool
 DBTool Project for Database Technology (TU/e)
 
-## Git-Befehle (Terminal)
+## Git commands (Terminal)
 
 * git clone <url>
 * git checkout -b <unser branch-name>
