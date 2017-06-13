@@ -1,5 +1,6 @@
 # DBTool
 DBTool Project for Database Technology (Lecture Summer 2014 - TU/e)
+Status: July 2014
 
 ## Git commands (Terminal)
 
