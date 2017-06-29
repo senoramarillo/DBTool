@@ -13,7 +13,7 @@ DBTool Project for Database Technology (Lecture Summer 2014 - TU/e)
 * git push origin <branch-name>
 
 ## Postgres
-* 1. Install prostgres database from http://www.postgresql.org/
+* 1. Install prostgres database from [postgres](http://www.postgresql.org/)
 * 2. After installation open pgAdmin tool.
 * 3. Give your server a password.
 * 4. Make a new database with a name.
