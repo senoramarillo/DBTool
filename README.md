@@ -1,5 +1,5 @@
 # DBTool
-DBTool Project for Database Technology (Lecture Summer 2014 - TU/e)[http://wwwis.win.tue.nl/~gfletcher/2imw20-spring16/]
+DBTool Project for Database Technology [Lecture Summer 2014 - TU/e](http://wwwis.win.tue.nl/~gfletcher/2imw20-spring16/)
 * Status: July 2014
 
 ## Git commands (Terminal)
