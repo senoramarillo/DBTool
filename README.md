@@ -31,6 +31,3 @@ DBTool Project for Database Technology [Lecture Summer 2014 - TU/e](http://wwwis
 	* 5. UserName = postgres
 	* 6. Password = *password*
 	* 7. Test connection to make sure it works.
-
-
-	
